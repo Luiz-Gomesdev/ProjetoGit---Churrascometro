@@ -1,0 +1,28 @@
+.container{
+    max-width: 300px; 
+    margin: auto;
+    background-color: #FF8C00;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+} 
+
+h1{
+    margin-top: 0;
+    
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 50px;
+    font-family: Marker Felt, fantasy;
+}
+
+input{
+    display: block;
+    padding: 5px;
+    width: 80%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
